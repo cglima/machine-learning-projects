@@ -1,6 +1,6 @@
 # Machine Learning projects
 
-- [x] [Projeto do Classificador simples Naive-Bayes](naive-bayes-classifier.ipynb)
+- [x] [naive-bayes-classifier.ipynb](https://github.com/cglima/machine-learning-projects/tree/main/naive-bayes-classifier)
 - [ ] 
 - [ ] 
 
