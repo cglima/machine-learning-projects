@@ -1,7 +1,7 @@
 # Machine Learning projects
 
-- [x] [naive-bayes-classifier.ipynb](https://github.com/cglima/machine-learning-projects/tree/main/naive-bayes-classifier)
-- [ ] 
+- [x] [naive-bayes-classifier.ipynb](https://github.com/cglima/machine-learning-projects/blob/main/naive-bayes-classifier/naive-bayes-classifier.ipynb)
+- [ ]  
 - [ ] 
 
 ## Ambiente de desenvolvimento
@@ -24,7 +24,7 @@
 
 5. Ative o ambiente virtual
 
-   $ source pyenv/bin/activate # no windows, use 'pyenv/Scripts/activate'
+   $ source ../pyenv/bin/activate # no windows, use '../pyenv/Scripts/activate'
 
 6. Instale o jupyter notebook
 
